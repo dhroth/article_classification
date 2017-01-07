@@ -1,0 +1,9 @@
+*.pyc
+storage/blacklist.csv
+storage/test_set.csv
+storage/pdfs
+features
+preprocessed
+trained_models
+predict/tmp_first_pages
+predict/tmp_images
